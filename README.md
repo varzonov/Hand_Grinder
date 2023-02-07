@@ -15,7 +15,7 @@ Non-prindet parts you need:
 - 2 x  608ZZ bearings
 - 1 x  Any metall ball from bearing ф2-4mm
 - 1 x  Any metall rod ф10mm for handle (230 mm long)
-- 1 x  Any metall spring that you can place between bearing and top burr (about 1kg tollerance)
+- 1 x  Any  compression metall spring that you can place between bearing and top burr (about 1kg safe load)
 
 
 ![Hand Grinder v81](https://user-images.githubusercontent.com/72069551/217238260-6a23ed37-a8c9-4fac-9b49-83f83a486565.png)
